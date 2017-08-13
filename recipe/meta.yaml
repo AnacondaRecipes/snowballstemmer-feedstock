@@ -37,6 +37,8 @@ about:
     compiler translates a Snowball script into another language - currently
     ISO C, Java and Python are supported.
   dev_url: https://github.com/shibukawa/snowball_py
+  doc_url: https://pypi.python.org/pypi/snowballstemmer
+  doc_source_url: https://github.com/shibukawa/snowball_py/blob/master/README.rst
 
 extra:
   recipe-maintainers:
